@@ -1,0 +1,7 @@
+.for-flex{
+    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(226, 72, 118);
+}

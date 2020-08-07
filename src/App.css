@@ -1,0 +1,36 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.letsDecideLater{
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+    background-color: rgb(226, 72, 118);
+  
+}
+
+.h1{
+    font-weight: bold;
+    font-size: 2.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(241, 245, 23);
+}
+
+.search{
+    height: 1.5em;
+}
+
+.loading{
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+    background-color: rgb(226, 72, 118);
+    font-weight: bold;
+    font-size: 2.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(241, 245, 23);
+
+}
